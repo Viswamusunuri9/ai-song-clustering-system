@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional - choose based on repo size)
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
