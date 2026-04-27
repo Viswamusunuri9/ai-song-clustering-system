@@ -45,6 +45,13 @@ Each cluster represents a **music segment (cohort)**, enabling:
 
 ---
 
+## 📦 Model Output
+
+The trained clustering model is saved in:
+models/kmeans_model.pkl
+
+---
+
 ## 📂 Project Structure
 ai-song-clustering-system/
 │
@@ -106,6 +113,14 @@ Deployment (Streamlit Cloud)
 Demo
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+## 💡 Business Use Case
+
+This system can be used by:
+
+- 🎵 Music streaming platforms for playlist generation
+- 📊 Marketing teams for audience segmentation
+- 🎧 Recommendation engines for personalized content delivery
 
 👨‍💻 Author
 
